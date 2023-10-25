@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanTheLemonMan
 - 👀 I’m interested in tech, cars, and firearms
 - 🌱 I’m currently learning Mechanical Engineering
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me please don't I still learning 
 
 <!---
